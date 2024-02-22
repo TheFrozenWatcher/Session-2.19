@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05801122-7b7c-4782-8470-c2d222e8ff5f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session 2.19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex1/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex10/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex11/PrimeNumberThreadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex3/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex4/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex7/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex9/run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2ceoT2ttnRyyODScqWqauSM5DbW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ex10.run.executor": "Run",
+    "Application.Ex2.run.executor": "Run",
+    "Application.Ex3.run.executor": "Run",
+    "Application.Ex4.run.executor": "Run",
+    "Application.Ex6.run.executor": "Run",
+    "Application.Ex8.run.executor": "Run",
+    "Application.Ex9.run.executor": "Run",
+    "Application.PrimeNumberThreadExample.executor": "Run",
+    "Application.TestThread.executor": "Run",
+    "Application.run.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/HUNG/IdeaProjects/Module 2 JAVA/Session 2.19/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Ex8.run">
+    <configuration name="Ex10.run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex10.run" />
+      <module name="Session 2.19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex8.run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex8.run" />
+      <module name="Session 2.19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex9.run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex9.run" />
+      <module name="Session 2.19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumberThreadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11.PrimeNumberThreadExample" />
+      <module name="Session 2.19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7.run" />
+      <module name="Session 2.19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex8.run" />
+        <item itemvalue="Application.PrimeNumberThreadExample" />
+        <item itemvalue="Application.Ex10.run" />
+        <item itemvalue="Application.Ex9.run" />
+        <item itemvalue="Application.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05801122-7b7c-4782-8470-c2d222e8ff5f" name="Changes" comment="" />
+      <created>1708481411595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708481411595</updated>
+      <workItem from="1708481412788" duration="12502000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
